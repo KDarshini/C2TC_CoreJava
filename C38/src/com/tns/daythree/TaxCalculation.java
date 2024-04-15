@@ -23,4 +23,6 @@ public class TaxCalculation {
 		94000);
 		}
 		}
-	}
+	
+}
+}
